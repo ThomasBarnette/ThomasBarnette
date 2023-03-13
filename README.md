@@ -1,7 +1,6 @@
 # Oh, its me!
  - 🔭 Currently working on making a psuedo-esoteric language with no practical value whatsoever! 🔭
  - 🌱 Prospective computer science student 🌱
- - 📫 contact: thomas.barnette@me.com 📫
 <!--
 
 Here are some ideas to get you started:
