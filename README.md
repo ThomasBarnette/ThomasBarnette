@@ -1,4 +1,5 @@
 ### Oh, its me!
+# Working on making a psuedo-esoteric language with no practical value whatsoever!
 
 <!--
 
