@@ -1,6 +1,6 @@
 # Oh, its me!
  - 🔭 Currently working on making a psuedo-esoteric language with no practical value whatsoever! 🔭
- - 🌱 Prospective computer science student 🌱
+ - Computer science student at Georgia Tech
 <!--
 
 Here are some ideas to get you started:
