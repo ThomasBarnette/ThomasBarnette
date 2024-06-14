@@ -1,5 +1,4 @@
 # Oh, its me!
- - 🔭 Currently working on making a psuedo-esoteric language with no practical value whatsoever! 🔭
  - Computer science student at Georgia Tech
 <!--
 
